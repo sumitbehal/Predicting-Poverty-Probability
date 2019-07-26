@@ -1,5 +1,5 @@
 ![Poverty](https://user-images.githubusercontent.com/40502533/61953634-8a50f600-afd4-11e9-987d-69751470d728.jpg)
-My goal is to predict the probability that individuals across seven different countries live below the poverty line at the $2.50/day threshold, given more than 50 demographic, economic, education, employment features.
+Goal of this project is  to predict the probability that individuals across seven different countries live below the poverty line at the $2.50/day threshold, given more than 50 demographic, economic, education, employment features.
 The probability of being in poverty was calculated using the Poverty Probability Index (PPI), 
 which estimates an individual's poverty status using 10 questions about a household’s characteristics and 
 asset ownership. The remaining data comes from the Financial Inclusion Insights household surveys conducted by InterMedia.
@@ -21,3 +21,6 @@ Unfortunately, the progress in reducing poverty has not been spread evenly over 
 More than half of the extreme poor live in Sub-Saharan Africa. In fact, the number of poor in the region
 increased by 9 million, with 413 million people living on less than US$1.90 a day in 2015, more than all the other 
 regions combined. If the trend continues, by 2030, nearly 9 out of 10 extreme poor will be in Sub-Saharan Africa.
+
+
+PS: I'll upgrade this basic model to achieve better R^2 score.This project is open to the contribution to achive high R^2 score.
