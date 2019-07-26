@@ -23,8 +23,12 @@ increased by 9 million, with 413 million people living on less than US$1.90 a da
 regions combined. If the trend continues, by 2030, nearly 9 out of 10 extreme poor will be in Sub-Saharan Africa.
 
 References
+
 Innovations for Poverty Action (IPA). 
+
 About the PPI: A Poverty Measurement Tool. https://www.povertyindex.org/about-ppi
+
+
 InterMedia. Financial Inclusion Insights. http://finclusion.org/
 
 
